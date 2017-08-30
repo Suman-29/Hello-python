@@ -1,4 +1,4 @@
 # Hello-python
 '''
-Its my fisrt python project 
+Its my first python project 
 '''
